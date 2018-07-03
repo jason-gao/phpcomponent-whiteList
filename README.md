@@ -1,0 +1,2 @@
+# phpcomponent-whiteList
+whiteList limit
