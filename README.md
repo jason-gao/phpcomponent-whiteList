@@ -1,4 +1,6 @@
-# how to use?   
+# how to use? 
+  
+* composer require jasong/phpcomponent-whitelist ~1.0  
 
 ```php
 
